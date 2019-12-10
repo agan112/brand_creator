@@ -15,4 +15,4 @@
 
 四、保存商标图片(尺寸为400*400)到手机相册
 
-![Image](https://github.com/agan112/brand_creator/blob/master/brand4.png)
+![Image](https://github.com/agan112/brand_creator/blob/master/brand4.jpeg)
